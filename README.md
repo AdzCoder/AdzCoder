@@ -33,4 +33,4 @@ I'm an engineering student passionate about building accessible, innovative solu
 
 💡 *Feel free to connect or check out my pinned repositories for highlights!* ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdzCoder&color=brightgreen&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdzCoder&color=brightgreen&style=flat-square)](https://github.com/AdzCoder)
