@@ -8,13 +8,6 @@
 
 Final year MEng student working at the intersection of mechanical design, embedded systems, and software development.
 
-## 🚀 Featured Projects
-
-**EMG Eye Blink Detector** – MATLAB assistive communication system for individuals with limited mobility  
-**Tetracoil Field Visualisation** – Python tool for electromagnetic field pattern analysis  
-**Robot Gripper Arm** – Electromechanical solution for accessibility  
-**Rocket Sensors** – Arduino-based telemetry for water rocket payloads
-
 ## 🔧 Tech Stack
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
