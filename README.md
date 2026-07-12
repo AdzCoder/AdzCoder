@@ -1,28 +1,29 @@
 # 👋 Hey, I'm Adil (AdzCoder)
 
-[![University](https://img.shields.io/badge/University-Warwick-purple?style=flat-square)](https://warwick.ac.uk/)
-[![Status](https://img.shields.io/badge/Status-Engineering_Student-blue?style=flat-square)](https://warwick.ac.uk/study/undergraduate/courses/engineering/)
-[![Focus](https://img.shields.io/badge/Focus-Accessible_Tech-green?style=flat-square)](https://www.w3.org/WAI/)
+[![Degree](https://img.shields.io/badge/MEng_Mechanical_Engineering-First_Class_Honours-purple?style=flat-square)](https://warwick.ac.uk/)
+[![University](https://img.shields.io/badge/University-Warwick-blue?style=flat-square)](https://warwick.ac.uk/)
+[![Focus](https://img.shields.io/badge/Focus-Robotics_&_Mechatronics-green?style=flat-square)](https://github.com/AdzCoder?tab=repositories)
 
-**Mechanical Engineering @ Warwick** | Turning concepts into prototypes
+**MEng Mechanical Engineering graduate (First Class Honours), University of Warwick** | Turning concepts into prototypes
 
-Final year MEng student working at the intersection of mechanical design, embedded systems, and software development.
+I work at the intersection of mechanical design, embedded systems and software. In my final year I was electromechanical lead on [WORAD](https://github.com/AdzCoder/worad-esp32s3-tests), a robotic quadruped for chemical hazard inspection — actuator selection and validation (CAN/QDD), belt-drive leg design, power architecture and battery safety. My third-year project, a four-coil uniform magnetic field system, is now used in funded metamaterials research and being prepared for publication — the field analysis lives in [tetracoil-field-visualisation](https://github.com/AdzCoder/tetracoil-field-visualisation).
 
 ## 🔧 Tech Stack
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![CAD](https://img.shields.io/badge/CAD-Design-FF6B35?style=flat-square)](https://en.wikipedia.org/wiki/Computer-aided_design)
-[![Signal Processing](https://img.shields.io/badge/Signal_Processing-DSP-blueviolet?style=flat-square)](https://en.wikipedia.org/wiki/Digital_signal_processing)
+[![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B35?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
 
-**Hardware:** Arduino · Sensors · Circuit Design · Signal Processing  
-**Software:** Python · MATLAB · Git · Data Visualisation  
-**Design:** CAD · Technical Drawing · Rapid Prototyping
+**Mechanical:** Fusion 360 CAD · FEA · 3D printing · rapid prototyping
+**Embedded:** ESP32 · Arduino · CAN bus · sensors · signal processing
+**Software:** MATLAB/Simulink · Python · Git · data visualisation
 
 ## 💡 Currently
 
-Working on final year engineering projects and exploring embedded systems applications. Interested in automation, data capture, and anything that combines mechanical design with electronics.
+Preparing two publications on the tetracoil magnetic field system (open hardware + comparative uniformity study) and seeking 2026 UK graduate roles in robotics, mechatronics, automotive and R&D.
 
 ## 📫 Connect
 
